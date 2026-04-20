@@ -1,6 +1,6 @@
 # 📝 Todo REST API
 
-A RESTful API built with Spring Boot to manage todo tasks, developed as part of a Java backend portfolio.
+A RESTful API built with Spring Boot to manage todo tasks, developed as part of a Java backend portfolio for learning purposes.
 
 ## Features
 - Create, read, update and delete todos (full CRUD)
