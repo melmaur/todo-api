@@ -2,6 +2,6 @@
 
  Yesterday: completed Project 1 - Library Management System
  
- Today: started Project 2 - Todo REST API, created Todo model and TodoRepository
- 
- Blockers: none
+ Today: started Project 2 - built full MVC stack for Todo REST API - model, repository, service, controller, H2 database configured and working
+
+ Blockers: Spring package scanning required manual configuration
