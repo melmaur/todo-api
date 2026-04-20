@@ -28,8 +28,11 @@ This project was developed following the **Scrum framework**:
 ## Architecture
 
 controller  → receives HTTP requests
+
 service     → applies business logic
+
 repository  → talks to the database
+
 model       → data structure
 
 ## API Endpoints
