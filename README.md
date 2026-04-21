@@ -45,6 +45,25 @@ model       → data structure
 | PUT | /api/todos/{id} | Update todo |
 | DELETE | /api/todos/{id} | Delete todo |
 
+## API Testing with Postman
+
+All endpoints tested and verified with Postman.
+
+### POST — Create a todo
+![POST request](docs/screenshots/post-todo.png)
+
+### GET — Retrieve all todos
+![GET request](docs/screenshots/get-all-todos.png)
+
+### GET — Retrieve by ID
+![GET by ID](docs/screenshots/get-by-id.png)
+
+### PUT — Update a todo
+![PUT request](docs/screenshots/put-todo.png)
+
+### DELETE — Delete a todo
+![DELETE request](docs/screenshots/delete-todo.png)
+
 ## How to Run
 1. Clone the repository
    git clone https://github.com/yourusername/todo-api
