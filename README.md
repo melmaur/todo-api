@@ -50,19 +50,19 @@ model       → data structure
 All endpoints tested and verified with Postman.
 
 ### POST — Create a todo
-![POST request](docs/screenshots/post-todo.png)
+![POST request](todo-api/docs/screenshots/post-todo.png)
 
 ### GET — Retrieve all todos
-![GET request](docs/screenshots/get-all-todos.png)
+![GET request](todo-api/docs/screenshots/get-all-todos.png)
 
 ### GET — Retrieve by ID
-![GET by ID](docs/screenshots/get-by-id.png)
+![GET by ID](todo-api/docs/screenshots/get-by-id.png)
 
 ### PUT — Update a todo
-![PUT request](docs/screenshots/put-todo.png)
+![PUT request](todo-api/docs/screenshots/put-todo.png)
 
 ### DELETE — Delete a todo
-![DELETE request](docs/screenshots/delete-todo.png)
+![DELETE request](todo-api/docs/screenshots/delete-todo.png)
 
 ## How to Run
 1. Clone the repository
