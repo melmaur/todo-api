@@ -66,7 +66,7 @@ All endpoints tested and verified with Postman.
 
 ## How to Run
 1. Clone the repository
-   git clone https://github.com/yourusername/todo-api
+   git clone https://github.com/melmaur/todo-api
 2. Open the project in IntelliJ IDEA
 3. Run TodoApiApplication.java
 4. API available at http://localhost:8080/api/todos
