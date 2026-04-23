@@ -27,6 +27,6 @@ Build a fully working REST API with Spring Boot for managing todo tasks with com
 - Set up Project 3 repo and backlog before writing any code
 
 ## Scrum values reflection
-- **Transparency**: daily standup and backlog kept up to date ✅
-- **Inspection**: retrospective identifies real improvement areas ✅
-- **Adaptation**: package structure lesson applied to Project 3 ✅
+- **Transparency**: daily standup and backlog kept up to date 
+- **Inspection**: retrospective identifies real improvement areas 
+- **Adaptation**: package structure lesson applied to Project 3 
