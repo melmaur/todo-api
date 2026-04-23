@@ -10,6 +10,14 @@
 
  Yesterday: started Project 2 - built full MVC stack for Todo REST API - model, repository, service, controller, H2 database configured and working
  
-🔨 Today: tested all CRUD endpoints with Postman, added screenshots to GitHub
+ Today: tested all CRUD endpoints with Postman, added screenshots to GitHub
 
-🚧 Blockers: Postman had to be downloaded and installed
+ Blockers: Postman had to be downloaded and installed
+
+## Daily - 23 April 2026
+
+ Yesterday: day off
+ 
+ Today: resume Project 2 - Sprint Review and Retrospective, begin planning Project 3 - Community Library Booking System
+ 
+ Blockers: none
