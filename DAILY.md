@@ -17,5 +17,7 @@
 ## Daily - 23 April 2026
 
  Yesterday: day off
+ 
  Today: resume Project 2 - Sprint Review and Retrospective, begin planning Project 3 - Community Library Booking System
+ 
  Blockers: none
