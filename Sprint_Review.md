@@ -19,7 +19,7 @@ Sprint Goal achieved — all 5 user stories completed.
 ## Velocity
 - Story points committed: 9
 - Story points delivered: 9
-- Velocity: 100% ✅
+- Velocity: 100% 
 
 ## Feedback and Observations
 - MVC layered architecture clean and well organized

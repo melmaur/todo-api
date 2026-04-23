@@ -7,7 +7,7 @@ Build a fully working REST API with Spring Boot for managing todo tasks with com
  Sprint Goal achieved — all 5 user stories completed.
 
 ## What went well
-- Spring Boot setup via Spring Initializer was fast and clean
+- Spring Boot setup via Spring Initializr was fast and clean
 - MVC architecture kept code organized and readable
 - JPA handled all database operations automatically
 - Postman made API testing intuitive and visual
