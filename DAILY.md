@@ -23,7 +23,7 @@
  Blockers: none
 
 
-## Sprint Maintenance Daily 
+## Sprint Maintenance - A 2-days Spike Docker to explore dockeriation by applying it to already existing project 2 & 3 
 
 ## Day 1 — 15 May 2026
 
