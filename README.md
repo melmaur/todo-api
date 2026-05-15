@@ -72,6 +72,33 @@ All endpoints tested and verified with Postman.
 4. API available at http://localhost:8080/api/todos
 5. H2 console available at http://localhost:8080/h2-console
 
+
+## 🐳 Docker Support
+
+The application has been containerized using Docker as part of Sprint 2.
+
+### Run with Docker
+
+1. Build the image:
+```bash
+   docker build -t todo-api .
+```
+
+2. Run the container:
+```bash
+   docker run -p 8080:8080 todo-api
+```
+
+3. API available at: `http://localhost:8080/api/todos`
+4. H2 console at: `http://localhost:8080/h2-console`
+
+### What changes with Docker
+
+Previously the application required IntelliJ and a local Java 21 
+installation to run. With Docker, the container includes everything 
+needed — the app runs in an isolated environment with no local 
+dependencies required.
+
 ## Project Structure
 ```
 src/main/java/
