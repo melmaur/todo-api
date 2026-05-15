@@ -33,7 +33,7 @@ Build a fully working REST API with Spring Boot for managing todo tasks with com
 
 
 
-### Sprint Maintenance - Retrospective
+# Sprint Maintenance - Retrospective
 
 **Date:** 15/05/2026 (one day only)
 
