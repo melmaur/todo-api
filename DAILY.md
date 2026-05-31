@@ -23,9 +23,12 @@
  Blockers: none
 
 
-## Sprint Maintenance Daily Log (15 May 2026)
+## Sprint Maintenance - A 2-days Spike Docker to explore dockeriation by applying it to already existing project 2 & 3 
 
-## Day 1 — 15/05/2026
+## Day 1 — 15 May 2026
+
 **Yesterday:** Suddenly came to mind the idea of improvement by applying containerization via Docker to the completed project 2 todo-api.
+
 **Today:** Created Dockerfile with multi-stage build (eclipse-temurin:21). Resolved build context issue — Dockerfile correctly placed in project root. Successfully built image and ran container. Verified API response via browser and Postman — POST and GET working as expected.
+
 **Blockers:** Initial build failed due to incorrect Dockerfile placement (one level above project root). Resolved by moving Dockerfile into the correct directory.
