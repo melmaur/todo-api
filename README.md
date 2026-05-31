@@ -64,6 +64,22 @@ All endpoints tested and verified with Postman.
 ### DELETE — Delete a todo
 ![DELETE request](todo-api/docs/screenshots/delete-todo.png)
 
+## 🧪 Testing
+
+Integration tests written with JUnit 5 and MockMvc.
+
+Run tests:
+```bash
+./mvnw test
+```
+
+**Test coverage:**
+- GET /api/todos → 200 OK
+- POST /api/todos → creates successfully
+- GET /api/todos/{id} → 404 for non-existent
+- DELETE /api/todos/{id} → 204 No Content
+
+
 ## How to Run
 1. Clone the repository
    git clone https://github.com/melmaur/todo-api
