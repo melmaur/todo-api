@@ -32,3 +32,8 @@
 **Today:** Created Dockerfile with multi-stage build (eclipse-temurin:21). Resolved build context issue — Dockerfile correctly placed in project root. Successfully built image and ran container. Verified API response via browser and Postman — POST and GET working as expected.
 
 **Blockers:** Initial build failed due to incorrect Dockerfile placement (one level above project root). Resolved by moving Dockerfile into the correct directory.
+
+## Small improvement of 31 May 2026 - JUnit basic tests for TodoController  
+
+Today: User Story 12 about JUnit basic testing  done
+Blockers: none
