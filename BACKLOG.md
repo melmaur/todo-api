@@ -18,14 +18,14 @@
 | US-06 | As a developer, I want the API containerized with Docker so that it runs independently of the local environment                             | High   |  Done |
 | US-07 | As a developer, I want a .dockerignore file to optimize the build context                                                                   | Medium |  Done |
 | US-08 | As a developer, I want the README and Documentation updated with Docker instructions so that any developer can run the app without IntelliJ | Medium |  Done |
-| US-09 | As a developer, I want the Booking System containerized with Docker so that the full stack app runs independently of the local environment  | High   | to Do |
-| US-10 | As a developer, I want a .dockerignore file to optimize the build context                                                                   | Medium | to Do |
-| US-11 | As a developer, I want the README updated with Docker instructions                                                                          | Medium | to Do |
-
+| US-09 | As a developer, I want the Booking System containerized with Docker so that the full stack app runs independently of the local environment  | High   | Done |
+| US-10 | As a developer, I want a .dockerignore file to optimize the build context                                                                   | Medium | Done |
+| US-11 | As a developer, I want the README updated with Docker instructions                                                                          | Medium | Done |
+| US-12 | As a developer, I want basic automatic Testing with JUnit for TodoController.java                                                           | Medium | Done |
 
 ## Backlog — Future Sprints
 
 | ID    | User Story | Points | Status |
 |-------|---|---|---|
-| US-12 | As a user I want to filter todos by status so I can focus on pending tasks | 2 |  To Do |
-| US-13 | As a user I want to set a due date so I can prioritize my work | 3 |  To Do |
+| US-13 | As a user I want to filter todos by status so I can focus on pending tasks | 2 |  To Do |
+| US-14 | As a user I want to set a due date so I can prioritize my work | 3 |  To Do |
